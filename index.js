@@ -13,7 +13,7 @@ client.on("error", (error) => {
     console.error("An error occurred:", error);
 });
 
-const largeImageUrl = "https://media.discordapp.net/attachments/921114625020395540/1242378155034153040/Skarmavbild_2018-09-13_kl.webp"; 
+const largeImageUrl = "https://imgur.com/a/82MTcM2"; 
 
 function updateActivity() {
     client.setActivity({
